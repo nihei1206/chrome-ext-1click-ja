@@ -1,13 +1,12 @@
-# chrome-ext-1lick-ja
+chrome-ext-1lick-ja
 ---
 
-# 概要 / Overview
----
+## 概要 / Overview
 Activeにしている間、Google検索結果を日本語のものに限定するChrome Extensionです。
 Active、非Activeはアイコンをクリックすることで切り替えられます。
 
 インストール / Install
----
+
 Chrome Web Storeで公開しています。
 
 chua
@@ -20,7 +19,6 @@ chua
 chrome://settings/extensions
 
 Pull Request / Pull Request
-----------
 
 テストにはqunit( http://docs.jquery.com/QUnit )を使用しています。
 
@@ -39,8 +37,7 @@ Pull Request / Pull Request
 
 
 
-ライセンス / License
-----------
+## ライセンス / License
 Copyright &copy; 2022 Nihei Tomotaka
 Licensed under the [MIT License][mit]
 [MIT]: http://www.opensource.org/licenses/mit-license.php
