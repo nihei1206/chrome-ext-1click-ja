@@ -1,19 +1,16 @@
-chrome-ext-ato-ichinen
-======================
+# chrome-ext-1lick-ja
+---
 
-![TravisCI Status Images](https://travis-ci.org/amazedkoumei/chrome-ext-ato-ichinen.svg?branch=master)
-
-概要 / Overview
-----------
-Activeにしている間、Google検索結果を1年以内のものに限定するChrome Extensionです。
-
+# 概要 / Overview
+---
+Activeにしている間、Google検索結果を日本語のものに限定するChrome Extensionです。
 Active、非Activeはアイコンをクリックすることで切り替えられます。
 
 インストール / Install
-----------
+---
 Chrome Web Storeで公開しています。
 
-https://chrome.google.com/webstore/detail/pojaolkbbklmcifckclknpolncdmbaph
+chua
 
 デバッグを行う際にはchromeの設定->拡張機能で右上の「デベロッパーモード」チェックボックスをONにしたうえで
  「パッケージ化されていないされていない拡張を読み込む」ボタンでこのパッケージを読み込んでください。
@@ -44,7 +41,8 @@ Pull Request / Pull Request
 
 ライセンス / License
 ----------
-Copyright &copy; 2012 amazedkoumei
+Copyright &copy; 2022 Nihei Tomotaka
 Licensed under the [MIT License][mit]
- 
 [MIT]: http://www.opensource.org/licenses/mit-license.php
+
+Inspired by : https://github.com/amazedkoumei/chrome-ext-ato-ichinen
