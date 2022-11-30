@@ -43,3 +43,4 @@ Licensed under the [MIT License][mit]
 [MIT]: http://www.opensource.org/licenses/mit-license.php
 
 Inspired by : https://github.com/amazedkoumei/chrome-ext-ato-ichinen
+Copyright © 2012 amazedkoumei Licensed under the MIT License
